@@ -1,0 +1,5 @@
+PORT=3333
+POSTGRES_USER=teste
+POSTGRES_PASSWORD=teste123
+POSTGRES_DB=teste
+DATABASE_URL="postgresql://teste:teste123@postgres:5432/teste?schema=public"
