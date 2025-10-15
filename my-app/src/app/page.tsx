@@ -23,6 +23,7 @@ export default function Home() {
       <Container>
         <Title>USUÁRIOS</Title>
         <Form/>
+        <Table/>
       </Container>
     </UsersContextProvider> 
   );
